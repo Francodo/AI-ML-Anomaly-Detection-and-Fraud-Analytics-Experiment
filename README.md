@@ -1,4 +1,4 @@
-Fraud Detection & Analytics — Exploratory Data Analysis
+Fraud Detection & Analytics — Exploratory Data Analysis (EDA)
 
 Foundational EDA experiment for building AI/ML fraud detection models. The process is applicable to any domain where the focus is fraud detection. We need to apply domain specific data with features that drive insights that alligns with the main goal.
 
